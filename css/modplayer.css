@@ -237,13 +237,7 @@ footer {
 }
 #sliders > div > input {
   margin-left: 1rem;
-  max-width: 150px;
-}
-#volume {
-  writing-mode: bt-lr; /* IE */
-  -webkit-appearance: slider-vertical; /* WebKit */
-  width: 150px;
-  height: 32px;
+  max-width: 200px;
 }
 @media only screen and (max-width: 30rem) {
   #volume {
